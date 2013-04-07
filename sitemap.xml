@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://zhangcheng.github.com/myblog/blog/2013/04/07/first-post/</loc>
+        <lastmod>2013-04-07T19:33:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zhangcheng.github.com/myblog/blog/archives/</loc>
+        <lastmod>2013-04-07T19:33:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zhangcheng.github.com/myblog/</loc>
+        <lastmod>2013-04-07T19:33:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zhangcheng.github.com/myblog/robots.txt</loc>
+        <lastmod>2013-04-07T19:02:19+08:00</lastmod>
+    </url>
+</urlset>
